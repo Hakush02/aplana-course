@@ -1,1 +1,2 @@
-print ("hello aplana")
+print("hello aplana")
+print("hello evrybody")
